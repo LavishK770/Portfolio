@@ -1,0 +1,12 @@
+/* .design{
+    color:var(--color-primary);
+    
+} */
+
+h3{
+    color: var(--color-bg-variant);
+
+}
+ p{
+    color: brown;
+}

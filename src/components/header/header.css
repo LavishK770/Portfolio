@@ -3,6 +3,11 @@ header{
     padding-top: 7rem;
     overflow: hidden;
 }
+.header_text{
+    color: lightcoral;
+    font-size: 30px;
+}
+
 .header_container{
     text-align: center;
     height: 100%;

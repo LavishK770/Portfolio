@@ -10,7 +10,7 @@ const HeaderSocials = () => {
         <a href='https://linkedin.com/in/lavish-kumar-601b01238' target="blank"><BsLinkedin/></a>
         <a href='https://github.com/LavishK770' target="blank"><FaGithub/></a>
         <a href='https://instagr.am/la_vish__/' target="blank"><AiFillInstagram/></a>
-        <a href='https://api.whatsapp.com/send?phone+918082625770'  target="blank"><IoLogoWhatsapp/></a>
+        <a href='https://api.whatsapp.com/send?phone=%2B918082625770' target="blank"><IoLogoWhatsapp/></a>
     </div>
   ) 
 }

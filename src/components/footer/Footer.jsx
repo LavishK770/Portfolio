@@ -20,7 +20,7 @@ const Footer = () => {
 
     <div className='footer_socials'>
       <a href='https://facebook.com'target='_blank'><BsFacebook/></a>
-      <a href='https://instagram.com'target='_blank'><BsInstagram/></a>
+      <a href='https://instagr.am/la_vish__/' target='_blank'><BsInstagram/></a>
       <a href='https://twitter.com'target='_blank'><AiFillTwitterCircle/></a>
     </div>
 
