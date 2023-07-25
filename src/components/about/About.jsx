@@ -11,9 +11,9 @@ const About = () => {
       <h2>About Me</h2>
 
       <div className='container about_container'>
-        <div className='About_me'>
+        <div className='about_me'>
           <div className='about_me-image'>
-            <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkHwIfa83tAQNOjJdd9LRhjc9LNakC8v3jZnnOWc1dil6XHmsEdaab8z7DYAhcTiT3DGw&usqp=CAU.jpg' alt="About Image"/>
+            <img src='https://img.freepik.com/free-vector/male-programmer-working-computer-office-wall-with-hanging-reminder-stickers-developer-creating-new-software-interface-coding-programming-system-administrator-designer-character_575670-1159.jpg?w=2000' alt="About Image"/>
           </div>
         </div>
 
